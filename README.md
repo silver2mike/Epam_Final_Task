@@ -3,6 +3,7 @@
 
 Files:
 - Presentation
+- Schema
 - [Homeworks](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022.git)
 
 Repos:
