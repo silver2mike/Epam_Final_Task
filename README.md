@@ -2,8 +2,8 @@
 ### EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022
 
 Files:
-- Presentation
-- Schema
+- [Project Presentation](https://github.com/silver2mike/Epam_Final_Task/blob/main/Epam%20project.pptx)
+- [Project Scheme](https://github.com/silver2mike/Epam_Final_Task/blob/main/Schema_final_task.jpg)
 - [Homeworks](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022.git)
 
 Repos:
