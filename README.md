@@ -3,7 +3,7 @@
 
 Files:
 - [Project Presentation](https://github.com/silver2mike/Epam_Final_Task/blob/main/Epam%20project.pptx)
-- [Project Scheme](https://github.com/silver2mike/Epam_Final_Task/blob/main/Schema_final_task.jpg)
+- [Project Scheme](https://github.com/silver2mike/Epam_Final_Task/blob/main/Schema2.drawio.png)
 - [Homeworks](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022.git)
 
 Repos:
